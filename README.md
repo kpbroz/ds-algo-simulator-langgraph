@@ -29,7 +29,7 @@ A simple backend functionality for a Data Structures and Algorithms (DSA) simula
    ```
 3. Open `main.py` and set your input string:
    ```python
-   text = "can you find the longest duplicate of banana and also check whether hannah is palindrome"
+   text = "can you find the longest duplicate substring of banana and also check whether hannah is palindrome"
    ```
 4. Run the script:
    ```bash

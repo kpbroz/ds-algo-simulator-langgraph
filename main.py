@@ -38,7 +38,7 @@ app.get_graph().draw_mermaid_png(output_file_path="graph.png")
 if __name__ == "__main__":
     print("Hello bvc!")
     
-    # text = "can you find the longest duplicate of banana and also check whether hannah is palindrome"
+    # text = "can you find the longest duplicate substring of banana and also check whether hannah is palindrome"
     text = "can you find longest increasing subsequence of [10,9,2,5,3,7,101,18]"
     
     
